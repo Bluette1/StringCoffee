@@ -3,10 +3,9 @@ package stringcoffee;
 import java.util.Arrays;
 
 /**
- * This will k retrieve the number of bytes for each file type
+ * This will retrieve the number of bytes for each file type
  *
- * @see
- * /instructions/screencapture-app-codility-c-run-2B2NS8-M7X-2019-05-20-07_40_15.pdf
+ * @see /instructions/screencapture-app-codility-c-run-2B2NS8-M7X-2019-05-20-07_40_15.pdf
  *
  * @author marylene
  */
